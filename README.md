@@ -1,25 +1,17 @@
-```math
-\small
-\begin{array}{l}
-\color{transparent}𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡\color{#310}𝚒\color{#420}𝚒𝚒𝚒𝚒𝚒\color{#310}𝚒𝚒\\[-8pt]
-\color{transparent}𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡\color{#420}𝚒𝚒\color{#520}𝚒\color{#620}𝚛\color{#630}𝚛𝚛\color{#730}𝚛𝚛𝚛𝚛𝚛𝚛𝚛𝚛𝚛𝚛𝚛\color{#630}𝚛𝚛\color{#620}𝚛\color{#520}𝚒𝚒\color{#420}𝚒\\[-8pt]
-\color{transparent}𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡\color{#420}𝚒\color{#520}𝚒𝚛\color{#630}𝚛\color{#730}𝚛𝚛\color{#840}𝚛𝚛\color{#940}𝚛𝚛\color{#950}𝚛\color{#a50}𝚒𝚒𝚒𝚒𝚒𝚒𝚒𝚒𝚒𝚒\color{#940}𝚛𝚛𝚛\color{#840}𝚛\color{#830}𝚛\color{#730}𝚛\color{#630}𝚛\color{#620}𝚛\color{#520}𝚒\color{#420}𝚒\\[-8pt]
-\color{transparent}𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡\color{#310}𝚒\color{#420}𝚒\color{#520}𝚛\color{#630}𝚛\color{#730}𝚛\color{#840}𝚛𝚛\color{#940}𝚛\color{#a50}𝚒𝚒\color{transparent}𝚡\color{#430}𝚒\color{#551}𝚛\color{#761}𝚛𝚛\color{#871}𝚛𝚛\color{#981}𝚛𝚛𝚛\color{#971}𝚛\color{#871}𝚛\color{#761}𝚛𝚛\color{#551}𝚛\color{#430}𝚒\color{transparent}𝚡\color{#a50}𝚒𝚒\color{#950}𝚒\color{#940}𝚛\color{#840}𝚛\color{#730}𝚛𝚛\color{#630}𝚛\color{#520}𝚒\color{#420}𝚒\\[-8pt]
-\color{transparent}𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡\color{#310}𝚒\color{#520}𝚒\color{#620}𝚛\color{#630}𝚛\color{#730}𝚛\color{#840}𝚛\color{#940}𝚛\color{#950}𝚒\color{transparent}𝚡\color{#541}𝚒\color{#761}𝚛\color{#871}𝚛\color{#a81}𝚒\color{#b91}𝚌\color{#ca1}𝚘\color{#cb2}𝚘\color{#db2}𝚊\color{#dc2}𝟾\color{#ec2}𝟾𝚂𝚂𝚂𝟾\color{#dc2}𝟾\color{#db2}𝚊\color{#cb2}𝚘\color{#ca1}𝚘\color{#b91}𝚌\color{#a81}𝚒\color{#871}𝚛\color{#761}𝚛\color{#541}𝚒\color{transparent}𝚡\color{#a50}𝚒𝚒\color{#940}𝚛\color{#840}𝚛\color{#730}𝚛\color{#630}𝚛\color{#520}𝚒\color{#420}𝚒\\[-8pt]
-\color{transparent}𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡\color{#420}𝚒\color{#520}𝚒\color{#630}𝚛\color{#730}𝚛\color{#840}𝚛\color{#940}𝚛\color{#a50}𝚒\color{#430}𝚒\color{#761}𝚛\color{#971}𝚛\color{#a91}𝚒\color{#ca1}𝚌\color{#db2}𝚊\color{transparent}𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡\color{#db2}𝚊\color{#ca1}𝚌\color{#a91}𝚒\color{#971}𝚛\color{#761}𝚛\color{#430}𝚒\color{#b50}𝚒\color{#a50}𝚒\color{#940}𝚛\color{#840}𝚛\color{#730}𝚛\color{#630}𝚛\color{#520}𝚒\\[-8pt]
-\color{transparent}𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡\color{#420}𝚒\color{#520}𝚛\color{#630}𝚛\color{#730}𝚛\color{#840}𝚛\color{#940}𝚛\color{#330}𝚒\color{#761}𝚛\color{#981}𝚛\color{#b91}𝚌\color{#cb2}𝚘\color{#ec2}𝟾\color{transparent}𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡\color{#ec2}𝟾\color{#cb2}𝚘\color{#b91}𝚌\color{#981}𝚛\color{#761}𝚛\color{#330}𝚒\color{#a50}𝚒\color{#940}𝚛\color{#840}𝚛\color{#730}𝚛\color{#630}𝚛\color{#520}𝚒\color{#310}𝚒\\[-8pt]
-\color{transparent}𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡\color{#420}𝚒𝚒\color{#520}𝚒𝚒𝚒\color{#420}𝚒\color{#520}𝚒\color{#630}𝚛\color{#730}𝚛\color{#840}𝚛\color{#940}𝚛\color{#541}𝚒\color{#871}𝚛\color{#a91}𝚒\color{#ca1}𝚘\color{#dc2}𝟾\color{transparent}𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡\color{#ec2}𝟾\color{#ca1}𝚘\color{#a91}𝚒\color{#871}𝚛\color{#541}𝚒\color{#a50}𝚒\color{#940}𝚛\color{#840}𝚛\color{#730}𝚛\color{#630}𝚛\color{#520}𝚒\color{transparent}𝚡\color{#520}𝚒𝚒\color{#420}𝚒𝚒\\[-8pt]
-\color{transparent}𝚡𝚡𝚡𝚡\color{#420}𝚒\color{#520}𝚒𝚒\color{#620}𝚛\color{#630}𝚛\color{#520}𝚒\color{#630}𝚛\color{#730}𝚛\color{#740}𝚛\color{#840}𝚛𝚛\color{#940}𝚛\color{#950}𝚛𝚛𝚛𝚛\color{#a50}𝚒𝚒\color{#a60}𝚒\color{#a61}𝚒𝚒𝚒\color{#b61}𝚒𝚌𝚌𝚌\color{#b71}𝚌𝚌𝚌𝚌\color{#c71}𝚌\color{#c81}𝚘\color{#d81}𝚊\color{#430}𝚒\color{#871}𝚛\color{#a91}𝚒\color{#ca1}𝚘\color{#ec2}𝟾\color{transparent}𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡\color{#ec2}𝟾\color{#ca1}𝚘\color{#a91}𝚒\color{#871}𝚛\color{#440}𝚒\color{#eb1}𝚂\color{#ea1}𝟾\color{#d91}𝚊𝚊𝚊𝚊𝚊\color{#d81}𝚊𝚊𝚊𝚘\color{#c81}𝚘𝚘𝚘𝚘\color{#c71}𝚘𝚘𝚌\color{#b71}𝚌\color{#b61}𝚌𝚌𝚒\color{#a61}𝚒\color{#a50}𝚒\color{#950}𝚛\color{#940}𝚛\color{#840}𝚛\color{#630}𝚛𝚛\color{#620}𝚛\color{#520}𝚛𝚒\color{#420}𝚒𝚒\\[-8pt]
-\color{#730}𝚛\color{#740}𝚛\color{#840}𝚛𝚛𝚛\color{#940}𝚛\color{#950}𝚛𝚛𝚛\color{#a50}𝚒𝚒𝚒\color{#a60}𝚒𝚒\color{#a61}𝚒𝚒𝚒\color{#b61}𝚒𝚌𝚌𝚌𝚌\color{#b71}𝚌𝚌𝚌\color{#c71}𝚌𝚘𝚘𝚘\color{#c81}𝚘𝚘𝚘𝚘𝚘\color{#d81}𝚊\color{#d91}𝚊\color{#ea1}𝟾\color{#651}𝚛\color{#981}𝚛\color{#ba1}𝚌\color{#db2}𝚊\color{transparent}𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡\color{#dc2}𝟾\color{#ba1}𝚌\color{#981}𝚛\color{#651}𝚛\color{#fc2}𝙼𝙼𝙼𝙼𝚙𝚊𝚝𝚟𝚞𝚔𝙼𝙼\color{#fb2}𝙼\color{#fb1}𝙼𝚂𝚂\color{#eb1}𝚂𝚂\color{#ea1}𝚂𝚂𝟾𝟾𝟾\color{#d91}𝟾𝚊𝚊\color{#d81}𝚊\color{#c81}𝚘𝚘𝚘\color{#c71}𝚘\color{#b71}𝚌𝚌\color{#b61}𝚌\color{#a61}𝚒\color{#a50}𝚒\\[-8pt]
-\color{#730}𝚛𝚛𝚛𝚛\color{#840}𝚛𝚛𝚛𝚛𝚛\color{#940}𝚛𝚛𝚛𝚛𝚛𝚛𝚛𝚛𝚛𝚛𝚛\color{#950}𝚛𝚛𝚒\color{#a50}𝚒𝚒𝚒𝚒𝚒𝚒𝚒𝚒𝚒𝚒𝚒𝚒𝚒\color{transparent}𝚡\color{#761}𝚛\color{#981}𝚒\color{#ca1}𝚘\color{#ec2}𝟾\color{transparent}𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡\color{#ec2}𝟾\color{#ca1}𝚘\color{#a81}𝚒\color{#761}𝚛\color{transparent}𝚡\color{#e91}𝚂𝚂𝚂𝟾𝟾𝟾\color{#e81}𝟾𝟾𝟾𝟾\color{#d81}𝟾𝟾𝚊𝚊𝚊𝚊\color{#d71}𝚊𝚊𝚊\color{#c71}𝚘𝚘𝚘𝚘\color{#c61}𝚘𝚌\color{#b61}𝚌\color{#b60}𝚌𝚌𝚌𝚌\color{#b50}𝚒\color{#a50}𝚒𝚒𝚒𝚒\\[-8pt]
-\color{#520}𝚒\color{#630}𝚛𝚛\color{#730}𝚛𝚛𝚛\color{#830}𝚛\color{#840}𝚛𝚛𝚛𝚛𝚛\color{#940}𝚛𝚛𝚛𝚛𝚛𝚛𝚛\color{#950}𝚛𝚒\color{#a50}𝚒𝚒𝚒𝚒𝚒𝚒𝚒𝚒𝚒\color{#b50}𝚒𝚌\color{#b60}𝚌𝚌𝚌𝚌𝚌𝚌𝚌𝚌𝚌\color{#b61}𝚌𝚌𝚌\color{#c61}𝚌𝚌𝚘\color{#c71}𝚘𝚘𝚘𝚘𝚘𝚘\color{#d71}𝚊𝚊𝚊𝚊𝚊𝚊𝚊𝚊𝚊𝚊𝚊𝚊𝚊𝚊\color{#d81}𝚊𝚊𝚊𝚊𝚊𝟾𝟾𝟾𝚊𝚊𝚊𝚊𝚊𝚊\color{#d71}𝚊𝚊𝚊𝚊𝚊𝚊\color{#c71}𝚘𝚘𝚘𝚘𝚘𝚘𝚘\color{#c61}𝚘𝚌𝚌\color{#b61}𝚌\color{#b60}𝚌𝚌𝚌\color{#a50}𝚒𝚒𝚒𝚒𝚒\color{#950}𝚛\color{#940}𝚛\color{#840}𝚛𝚛\\[-8pt]
-\color{transparent}𝚡𝚡𝚡𝚡𝚡𝚡\color{#420}𝚒\color{#520}𝚒𝚒\color{#620}𝚛𝚛\color{#630}𝚛\color{#520}𝚒\color{#620}𝚛\color{#630}𝚛\color{#730}𝚛𝚛𝚛𝚛\color{#840}𝚛𝚛𝚛𝚛𝚛\color{#940}𝚛𝚛𝚛𝚛𝚛𝚛𝚛\color{#950}𝚛𝚒\color{#a50}𝚒𝚒𝚒𝚒𝚒𝚒𝚒𝚒𝚒𝚒𝚒𝚒\color{#b50}𝚒𝚒𝚌𝚌𝚌\color{#b60}𝚌𝚌𝚌𝚌𝚌𝚌𝚌𝚌𝚌𝚌𝚌𝚌𝚌𝚌𝚌𝚌𝚌𝚌𝚌𝚌𝚌𝚌𝚌𝚌𝚌𝚌𝚌𝚌𝚌𝚌𝚌\color{#b50}𝚌𝚒\color{#a50}𝚒𝚒𝚒𝚒𝚒𝚒𝚒\color{#950}𝚒\color{#940}𝚛𝚛𝚛\color{#840}𝚛𝚛\color{#830}𝚛\color{#730}𝚛\color{#620}𝚛\color{#730}𝚛\color{#630}𝚛\color{#620}𝚛\color{#520}𝚒𝚒\color{#420}𝚒\\[-8pt]
-\color{transparent}𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡\color{#420}𝚒𝚒𝚒\color{#520}𝚒\color{#430}𝚒\color{#761}𝚛\color{#a81}𝚒\color{#ca1}𝚌\color{#db2}𝚊\color{transparent}𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡\color{#db2}𝚊\color{#ca1}𝚌\color{#a81}𝚒\color{#761}𝚛\color{#430}𝚒\color{#420}𝚒𝚒𝚒𝚒\\[-8pt]
-\color{transparent}𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡\color{#651}𝚛\color{#871}𝚛\color{#a91}𝚒\color{#ca1}𝚘\color{#db2}𝚊\color{transparent}𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡\color{#db2}𝚊\color{#ca1}𝚘\color{#a91}𝚒\color{#871}𝚛\color{#651}𝚛\\[-8pt]
-\color{transparent}𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡\color{#651}𝚛\color{#871}𝚛\color{#a81}𝚒\color{#ba1}𝚌\color{#cb2}𝚘\color{#dc2}𝟾\color{transparent}𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡\color{#dc2}𝟾\color{#cb2}𝚘\color{#ba1}𝚌\color{#a81}𝚒\color{#871}𝚛\color{#651}𝚛\\[-8pt]
-\color{transparent}𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡\color{#330}𝚒\color{#651}𝚛\color{#871}𝚛\color{#981}𝚛\color{#a91}𝚒\color{#b91}𝚌\color{#ca1}𝚌\color{#cb2}𝚘\color{#db2}𝚊𝚊𝚊𝚊𝚊𝚊𝚊\color{#cb2}𝚘\color{#ca1}𝚌\color{#b91}𝚌\color{#a91}𝚒\color{#981}𝚛\color{#871}𝚛\color{#651}𝚛\color{#330}𝚒\\[-8pt]
-\color{transparent}𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡𝚡\color{#430}𝚒\color{#541}𝚒\color{#651}𝚛\color{#761}𝚛𝚛𝚛𝚛𝚛𝚛𝚛\color{#651}𝚛\color{#541}𝚒\color{#430}𝚒
-\end{array}
-```
-
-<p align="center"><a href="https://github.com/patvuk/bh">bh</a></p>
+<div align="center">
+<pre>
+                             .........                            
+                         .,,,::;;;;;:::,,..                       
+                      .,,::;.,:;+++;:,.+;:,,.                     
+                     .,::.:+?         ?+:.;:,,                    
+                    .,: :+%             %+: :,,.                  
+     .,,,,,:::;;;;;+++*:*                 *:%?*****+++;;;:,,,..   
+,::::;;;;;;++++++****?.;%                 %;.##patvuk##SSS%%??**++
+,,,,::::::::;;;;;;;;++++++*             %%%%%%%%%%?????****+++;;;:
+      ..,,.,,,,,:::::::;;;;;;;;;;;;;;;;;;;;;;;;;;;;:::,,.,,..     
+                        ,+?             ?+,                       
+                         .,;*%       %*;,.                        
+                             ,,:;;;:,,                            
+</pre>
+<a href="https://github.com/patvuk/bh">bh</a>
+</div>
