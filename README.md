@@ -14,9 +14,11 @@
                              ,,:;;;:,,                            
 </pre>
 <pre>
-┌────────────────────────┐
-│  patrik "pat" vuković  │
-└────────────────────────┘
+┌─────────────────────────────────────────────────┐
+│  patrik "pat" vuković                           │
+│  high-performance core systems and native apps  │
+│  web scraping and anti-bot measures             │
+└─────────────────────────────────────────────────┘
 </pre>
 <a href="https://pvuk.dev">pvuk.dev</a> · <a href="https://github.com/patvuk/bh">bh</a>
 </div>
