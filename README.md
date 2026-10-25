@@ -13,5 +13,10 @@
                          .,;*%       %*;,.                        
                              ,,:;;;:,,                            
 </pre>
-<a href="https://github.com/patvuk/bh">bh</a>
+<pre>
+┌────────────────────────┐
+│  patrik "pat" vuković  │
+└────────────────────────┘
+</pre>
+<a href="https://pvuk.dev">pvuk.dev</a> · <a href="https://github.com/patvuk/bh">bh</a>
 </div>
